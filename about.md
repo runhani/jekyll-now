@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently working @ video technology lab in SK Telecom.
 
-### More Information
+### Current Mission
 
-A place to include any other types of information that you'd like to include about yourself.
+My current mission is to create AI Technology that have an impact on people who use our life platform.
+Let's do it with deep learning.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[joyful.kim@sk.com](mailto:joyful.kim@sk.com)
